@@ -40,7 +40,7 @@
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
    <img align = "left" width = "13%"  src = 'https://th.bing.com/th/id/OIP.WwXtTG8_vtxWGz1c34lQQQHaBx?pid=ImgDet&rs=1'/>
-   <img align = "left" width = "13%"  src = 'https://th.bing.com/th/id/OIP.K2jskB8EL12SkMol6fZNjAHaBx?pid=ImgDet&rs=1'/>
+   <img width = "13%"  src = 'https://th.bing.com/th/id/OIP.K2jskB8EL12SkMol6fZNjAHaBx?pid=ImgDet&rs=1'/>
   
 #### :mag: <b><i><samp>OFFICE</samp></i></b>
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
