@@ -5,7 +5,7 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
 
-<samp>I'm Ogboi Favour and currently I'm a <b> Data Scientist | Analyst </b> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px">I am passionate about solving problems with technology and creating solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
+<samp>I'm Ogboi Favour and currently I'm a <b> Data Scientist|Analyst || Software Developer </b> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px">I am passionate about solving problems with technology and creating solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
 <samp>Stay free to know a little more about my life, follow me on my network above where I share a little more about myself.</samp> &nbsp; 💻 &nbsp; 🚀
 
