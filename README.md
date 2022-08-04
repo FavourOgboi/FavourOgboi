@@ -9,7 +9,7 @@
 
 <samp>Stay free to know a little more about my life, follow me on my network above where I share a little more about myself.</samp> &nbsp; 💻 &nbsp; 🚀
 
-<i> I am a Data Analyst who is passionate about using data and data driven technologies to solve problems and make valuable decisions that would improve</i> <i>productivity and help companies achieve their goals. This has been the driving force behind my career and self development pursuit over the years.</i>
+<i> I am a Data Analyst who is passionate about using data and data driven technologies to solve problems and make valuable decisions that would improve productivity and help companies achieve their goals. This has been the driving force behind my career and self development pursuit over the years.</i>
 
 <i>I love helping data enthusiasts start and navigate their Data Analytics career.</i>
 
