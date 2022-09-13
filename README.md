@@ -5,7 +5,7 @@
 
 ## <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px">
 
-<samp>I'm Ogboi Favour and currently I'm a <b> Data Scientist|Analyst || Software Developer </b> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px">I am passionate about solving problems with technology and creating solutions.</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
+I'm Ogboi Favour and currently I'm a <b> Data Scientist|Analyst || Software Developer </b> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px">I am passionate about solving problems with technology and creating solutions.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24">
 
 <samp>Stay free to know a little more about my life, follow me on my network above where I share a little more about myself.</samp> &nbsp; 💻 &nbsp; 🚀
 
@@ -28,7 +28,7 @@
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-   ![R](https://img.shields.io/badge/c-%23276DC3.svg?style=for-the-badge&logo=c&logoColor=white)
+   ![flutter](https://img.shields.io/badge/flutter-%23276DC3.svg?style=for-the-badge&logo=flutter&logoColor=white)
    
 #### :computer: <b><i><samp> DS/ML </samp></i></b>
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
