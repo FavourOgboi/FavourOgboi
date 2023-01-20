@@ -18,6 +18,16 @@ I'm Ogboi Favour and currently I'm a <b> Data Scientist|Analyst || Software Deve
 - ⚽ &nbsp; <samp>Passionate about football.</samp>
 - 👨‍🎓 &nbsp; <samp>My academic life.</samp>
 
+# [GitHub Stats Visualization](https://github.com/FavourOgboi/FavourOgboi)
+
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/FavourOgboi/FavourOgboi">
+<img src="https://github.com/FavourOgboi/FavourOgboi/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/FavourOgboi/FavourOgboi/blob/master/generated/languages.svg#gh-dark-mode-only" />
+
+
 <img align = "left" width = "45%"  src ="https://github-readme-stats.vercel.app/api?username=FavourOgboi&show_icons=true&theme=radical" />
 
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=FavourOgboi&theme=tokyonight)
