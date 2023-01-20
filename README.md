@@ -20,7 +20,7 @@ I'm Ogboi Favour and currently I'm a <b> Data Scientist|Analyst || Software Deve
 
 <img align = "left" width = "45%"  src ="https://github-readme-stats.vercel.app/api?username=FavourOgboi&show_icons=true&theme=radical" />
 
-<img  width = "25%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=FavourOgboi&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=FavourOgboi&theme=tokyonight) />
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=FavourOgboi&theme=tokyonight)
 
 #### :bulb:<b><i><samp> LANGUAGES </samp></i></b>
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
