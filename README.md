@@ -9,7 +9,7 @@ I'm Ogboi Favour and currently I'm a <b> Data Scientist|Analyst || Software Deve
 
 <samp>Stay free to know a little more about my life, follow me on my network above where I share a little more about myself.</samp> &nbsp; 💻 &nbsp; 🚀
 
-<i> I am a Data Analyst who is passionate about using data and data driven technologies to solve problems and make valuable decisions that would improve productivity and help companies achieve their goals. This has been the driving force behind my career and self development pursuit over the years.</i>
+<i> I am a someone who is passionate about using data and data driven technologies to solve problems and make valuable decisions that would improve productivity and help companies achieve their goals. This has been the driving force behind my career and self development pursuit over the years.</i>
 
 <i>I love helping data enthusiasts start and navigate their Data Analytics career.</i>
 
@@ -19,9 +19,7 @@ I'm Ogboi Favour and currently I'm a <b> Data Scientist|Analyst || Software Deve
 - 👨‍🎓 &nbsp; <samp>My academic life.</samp>
 
 
-<img align = "left" width = "45%"  src ="https://github-readme-stats.vercel.app/api?username=FavourOgboi&show_icons=true&theme=radical" />
 
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=FavourOgboi&theme=tokyonight)
 
 #### :bulb:<b><i><samp> LANGUAGES </samp></i></b>
    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
