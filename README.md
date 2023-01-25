@@ -41,14 +41,14 @@ I'm Ogboi Favour and currently I'm a <b> Data Scientist|Analyst || Software Deve
    <img align = "left" width = "13%"  src = 'https://th.bing.com/th/id/OIP.WwXtTG8_vtxWGz1c34lQQQHaBx?pid=ImgDet&rs=1'/>
    <img width = "13%"  src = 'https://th.bing.com/th/id/OIP.K2jskB8EL12SkMol6fZNjAHaBx?pid=ImgDet&rs=1'/>
   
-#### :wrench: <b><i><samp>VERSION CONTROL</samp></i></b>
+#### :wrench: <b><i><samp> VERSION CONTROL </samp></i></b>
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
    
 #### :open_file_folder:<b><i><samp> DATABASES </samp></i></b>
    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
    
-#### :bulb:<b><i><samp> dEVELOPER/FORUMS </samp></i></b>
+#### :bulb:<b><i><samp> DEVELOPER/FORUMS </samp></i></b>
    ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
    ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
    ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
