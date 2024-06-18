@@ -4,6 +4,8 @@
 
 <h1 align="center"> <samp>OGBOI FAVOUR</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="45px"></h1>
 
+<p align="left"> <a href="https://x.com/OgboiFavour" target="blank"><img src="https://img.shields.io/twitter/follow/vincent?logo=twitter&style=for-the-badge" alt="Vincent Favour" /></a> </p>
+
 <div align="center">
   <p align="center">
       <a target="_blank"href="https://www.linkedin.com/in/vincent-favour-297433205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,7 +17,7 @@
   <h2 align="center"> <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px"> </h2>
 
   <p align="center">
-    I'm Ogboi Favour and currently, I'm a <b>Data Scientist | Analyst || Software Developer</b> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px">
+    I'm Ogboi Favour and currently, I'm a <b>Data Scientist | Analyst || ML Instructor</b> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px">
     I am passionate about solving problems with technology and creating solutions.
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24px">
     <br><br>
@@ -35,6 +37,21 @@
   </ul>
 </div>
 
+***
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FavourOgboi&show_icons=true&locale=en&layout=compact&theme=onedark" alt="yczar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FavourOgboi&show_icons=true&locale=en&theme=onedark" alt="yczar" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FavourOgboi&theme=onedark" alt="yczar" />
+</p>
+
+
+
+
+<hr>
+  <p align="center"> <b>(Open for Hiring)</b> </p>
 <hr>
 
 <h2 align="center">:bulb: <b><i><samp>📋 Languages</samp></i></b></h2>
