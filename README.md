@@ -6,9 +6,10 @@
 
 <div align="center">
   <p align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/mupezzuol/">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/mupezzuol/">
-    </a>
+      <a target="_blank"href="https://www.linkedin.com/in/vincent-favour-297433205/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a target="_blank"href="https://medium.com/@ogboifavourifeanyichukwu"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp
+      <a target="_blank"href="https://x.com/OgboiFavour"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="ogboifavourifeanyichukwu@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   </p>
 
   <h2 align="center"> <samp>Hello World!</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px"> </h2>
@@ -105,6 +106,6 @@
 <hr>
 <h2 align="center">:bulb: <b><i><samp>📝 Blog</samp></i></b></h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+   <a target="_blank"href="https://medium.com/@ogboifavourifeanyichukwu"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 ```
